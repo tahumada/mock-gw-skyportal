@@ -5,7 +5,7 @@ The flow of the project:
 
 order |Task | comments | tools | difficulty | who | when 
 --|--|--|--|--|--|--
-1|make a map folder | take them from [Petrov et al.](https://zenodo.org/record/5206853) or [LIGO]()| 
+1|make a map folder | take them from [Petrov et al.](https://zenodo.org/record/5206853) or [LIGO](https://zenodo.org/record/7026209#.Y34B_uzMKw2)| 
 2|select a cadence for upload maps | select under size and distance
 3|creation of events and inject them | need to check what needs to be changed event by event
 4|stream the maps | |
